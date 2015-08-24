@@ -17,7 +17,7 @@ I received my PhD in the field of Human-Computer Interaction from the [School of
 * `House Memory`: if these walls could talk...
   - Publications: [Interactions](http://dl.acm.org/citation.cfm?doid=2654824), [DIS2014](http://dl.acm.org/citation.cfm?id=2598605) (Best Paper Nominee)
 * `Social Overlays`: collectively making websites more usable
-  - - Publications: [Interact2013](http://link.springer.com/chapter/10.1007/978-3-642-40498-6_21#page-1)
+  - Publications: [Interact2013](http://link.springer.com/chapter/10.1007/978-3-642-40498-6_21#page-1)
 * `Jigsaw`: a discovery-based learning game for Photoshop
   - Publications: [CHI2012](http://dl.acm.org/citation.cfm?id=2208358)
 
