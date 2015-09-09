@@ -15,9 +15,9 @@ I received my PhD in the field of Human-Computer Interaction from the [School of
 * `Home Trivia`: using activity traces, games, and sensors to help families better understand how they spend time at home
   - Publication: [UbiComp2015](https://drive.google.com/file/d/0B3ZUNRRaVZ8na3lUM3RwSmx5VFE/view?usp=sharing)
 * `House Memory`: if these walls could talk...
-  - Publication: [Interactions](http://dl.acm.org/citation.cfm?doid=2654824), [DIS2014](http://dl.acm.org/citation.cfm?id=2598605) (Best Paper Nominee)
+  - Publications: [Interactions](http://dl.acm.org/citation.cfm?doid=2654824), [DIS2014](http://dl.acm.org/citation.cfm?id=2598605) (Best Paper Nominee)
 * `Social Overlays`: collectively making websites more usable
-  - Publications: [Interact2013](http://link.springer.com/chapter/10.1007/978-3-642-40498-6_21#page-1)
+  - Publication: [Interact2013](http://link.springer.com/chapter/10.1007/978-3-642-40498-6_21#page-1)
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/PlysPcqyRt0" frameborder="0" allowfullscreen></iframe>
 * `Jigsaw`: a discovery-based learning game for Photoshop
   - Publication: [CHI2012](http://dl.acm.org/citation.cfm?id=2208358)
