@@ -13,14 +13,14 @@ I received my PhD in the field of Human-Computer Interaction from the [School of
 ## Previous Research Projects
 
 * `Home Trivia`: using activity traces, games, and sensors to help families better understand how they spend time at home
-  - Publications: To appear at UbiComp2015
+  - Publication: [UbiComp2015](https://drive.google.com/file/d/0B3ZUNRRaVZ8na3lUM3RwSmx5VFE/view?usp=sharing)
 * `House Memory`: if these walls could talk...
-  - Publications: [Interactions](http://dl.acm.org/citation.cfm?doid=2654824), [DIS2014](http://dl.acm.org/citation.cfm?id=2598605) (Best Paper Nominee)
+  - Publication: [Interactions](http://dl.acm.org/citation.cfm?doid=2654824), [DIS2014](http://dl.acm.org/citation.cfm?id=2598605) (Best Paper Nominee)
 * `Social Overlays`: collectively making websites more usable
   - Publications: [Interact2013](http://link.springer.com/chapter/10.1007/978-3-642-40498-6_21#page-1)
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/PlysPcqyRt0" frameborder="0" allowfullscreen></iframe>
 * `Jigsaw`: a discovery-based learning game for Photoshop
-  - Publications: [CHI2012](http://dl.acm.org/citation.cfm?id=2208358)
+  - Publication: [CHI2012](http://dl.acm.org/citation.cfm?id=2208358)
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/OwEPxmm_BTY" frameborder="0" allowfullscreen></iframe>
 
 If you don't have access to the ACM Digital Library, you can download the preprint versions of my papers on [Google Drive](https://drive.google.com/folderview?id=0B3ZUNRRaVZ8nfkVHdzdOM3ZKQmZHMGl1SWowQU9GQnVWakM5YTQ2UGZJcnQ3d3ZQcjFOZ1U&usp=sharing) or [微云](http://share.weiyun.com/e2f251f11f0a4600f14d5e7fb81d1291).
