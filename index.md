@@ -14,6 +14,7 @@ I received my PhD in the field of Human-Computer Interaction from the [School of
 
 * `Home Trivia`: using activity traces, games, and sensors to help families better understand how they spend time at home
   - Publication: [UbiComp2015](https://drive.google.com/file/d/0B3ZUNRRaVZ8na3lUM3RwSmx5VFE/view?usp=sharing)
+  - <iframe width="420" height="315" src="https://www.youtube.com/embed/TBDSEEFmEew" frameborder="0" allowfullscreen></iframe>
 * `House Memory`: if these walls could talk...
   - Publications: [Interactions](http://dl.acm.org/citation.cfm?doid=2654824), [DIS2014](http://dl.acm.org/citation.cfm?id=2598605) (Best Paper Nominee)
 * `Social Overlays`: collectively making websites more usable
