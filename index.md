@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-Hello! Thanks for dropping by my homepage. I am a User Experience Researcher at [Google](https://www.google.com/intl/en/about/), located in Mountain View, California. My current research is focused on cross-device user interfaces and multi-device eco-systems. At Google, I work closely with [Jeffrey Nichols](www.jeffreynichols.com/), [Elizabeth Churchill](Elizabeth F. Churchill), [Ellen Isaacs](www.izix.com/), and [Dan Afergan](http://www.eecs.tufts.edu/~afergan/).
+Hello! Thanks for dropping by my homepage. I am a User Experience Researcher at [Google](https://www.google.com/intl/en/about/), located in Mountain View, California. My current research is focused on cross-device user interfaces and multi-device eco-systems. At Google, I work closely with [Jeffrey Nichols](http://www.jeffreynichols.com/), [Elizabeth Churchill](http://elizabethchurchill.com/), [Ellen Isaacs](http://www.izix.com/), and [Dan Afergan](http://www.eecs.tufts.edu/~afergan/).
 
 I received my PhD in the field of Human-Computer Interaction from the [School of Information](http://www.si.umich.edu) at the [University of Michigan](http://www.umich.edu). My PhD thesis is entitled [Designing Reflective User Experience with Social and Ubiquitous Computing Technologies](http://deepblue.lib.umich.edu/handle/2027.42/111448). In graduate school, I was co-advised by [Prof. Mark Ackerman](http://www.socialworldsresearch.org/eecs/ackerm) and [Prof. Mark W. Newman](http://mwnewman.people.si.umich.edu/). I was also a member of the [SocialWorlds](http://www.socialworldsresearch.org/) and [Interaction Ecologies](http://www.intecolab.com/) research groups.
 
