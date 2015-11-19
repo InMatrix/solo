@@ -9,11 +9,14 @@
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/syntax.css">
   <link rel="stylesheet" href="css/solo.css">
+  <link rel="stylesheet" href="css/custom.css">
 {% include head.html %}
 </head>
 <body>
   <div class="container">
-    <h1><a href="./">{{ site.tag_text }}</a></h1>
+    <header>
+      <h1>{{ site.tag_text }}</h1>
+    </header>
     {{ content }}
   </div>
 {% include scripts.html %}

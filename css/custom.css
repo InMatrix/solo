@@ -1,0 +1,17 @@
+header {
+  height: 200px;
+  background-image: url("https://dl.dropboxusercontent.com/u/5007/site/201510_NYC-046.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: screen;
+  background-color: lightslategray;
+  padding: 20px;
+  border-radius: 2%;
+  margin-bottom: 0.5em;
+}
+
+@media (min-width: 30rem) {
+  header {
+    height: 300px;
+  }
+}
