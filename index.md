@@ -17,6 +17,7 @@ I received my PhD in the field of Human-Computer Interaction from the [School of
   - <iframe width="560" height="420" src="https://www.youtube.com/embed/TBDSEEFmEew" frameborder="0" allowfullscreen></iframe>
 * `House Memory`: if these walls could talk...
   - Publications: [Interactions](http://dl.acm.org/citation.cfm?doid=2654824), [DIS2014](http://dl.acm.org/citation.cfm?id=2598605) (Best Paper Nominee)
+  ![House Memory Figure](assets/hm_figure.jpg)
 * `Social Overlays`: collectively making websites more usable
   - Publication: [Interact2013](http://link.springer.com/chapter/10.1007/978-3-642-40498-6_21#page-1)
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/PlysPcqyRt0" frameborder="0" allowfullscreen></iframe>
