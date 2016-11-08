@@ -6,11 +6,19 @@ layout: default
 
 ## About Me
 
-Hello! Thanks for dropping by my homepage. I am a User Experience Researcher at [Google](https://www.google.com/intl/en/about/), located in Mountain View, California. My current research is focused on cross-device user interfaces and multi-device eco-systems. At Google, I work closely with [Jeffrey Nichols](http://www.jeffreynichols.com/), [Elizabeth Churchill](http://elizabethchurchill.com/), [Ellen Isaacs](http://www.izix.com/), and [Dan Afergan](http://www.eecs.tufts.edu/~afergan/).
+Hello! I am a User Experience Researcher at [Google](https://www.google.com/intl/en/about/), located in Mountain View, California. My current research is focused on multi-device user experiences and cross-platform design.
 
 I received my PhD in the field of Human-Computer Interaction from the [School of Information](http://www.si.umich.edu) at the [University of Michigan](http://www.umich.edu). My PhD thesis is entitled [Designing Reflective User Experience with Social and Ubiquitous Computing Technologies](http://deepblue.lib.umich.edu/handle/2027.42/111448). In graduate school, I was co-advised by [Prof. Mark Ackerman](http://www.socialworldsresearch.org/eecs/ackerm) and [Prof. Mark W. Newman](http://mwnewman.people.si.umich.edu/). I was also a member of the [SocialWorlds](http://www.socialworldsresearch.org/) and [Interaction Ecologies](http://www.intecolab.com/) research groups.
 
-## Previous Research Projects
+## Select Research Projects
+* `Multi-device Experiences`: Why is building multi-device experiences hard? We studied the problem from designers and developers' perspectives.
+  - Piblication: DIS2016 \[[ACM](http://dx.doi.org/10.1145/2901790.2901851), [PDF](https://drive.google.com/open?id=0B3ZUNRRaVZ8nTlNIUW1waGJFZG8)\]
+
+  > Spread the many parts of the many tasks of the day out in front of you to fit both the task and the reach of your arms and eyes rather than to fit the limitations of glassblowing.
+  >
+  >– <cite>Mark Weiser, [The Computer for the 21st Century][71947b0c]</cite>
+
+  [71947b0c]: https://www.lri.fr/~mbl/Stanford/CS477/papers/Weiser-SciAm.pdf "The Computer for the 21st Century"
 
 * `Home Trivia`: using activity traces, games, and sensors to help families better understand how they spend time at home
   - Publication: UbiComp2015 \[[ACM](http://dl.acm.org/citation.cfm?id=2804294), [PDF](https://drive.google.com/file/d/0B3ZUNRRaVZ8na3lUM3RwSmx5VFE/view?usp=sharing)\]
