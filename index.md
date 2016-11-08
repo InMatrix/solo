@@ -33,8 +33,7 @@ I received my PhD in the field of Human-Computer Interaction from the [School of
   - Publication: CHI2012 \[[ACM](http://dl.acm.org/citation.cfm?id=2208358), [PDF](https://drive.google.com/file/d/0B3ZUNRRaVZ8ncEZkVFRvMUtvNUU/view)\]
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/OwEPxmm_BTY" frameborder="0" allowfullscreen></iframe>
 
-If you don't have access to the ACM Digital Library, you can download the preprint versions of my papers on [Google Drive](https://drive.google.com/folderview?id=0B3ZUNRRaVZ8nfkVHdzdOM3ZKQmZHMGl1SWowQU9GQnVWakM5YTQ2UGZJcnQ3d3ZQcjFOZ1U&usp=sharing) or [微云](http://share.weiyun.com/e2f251f11f0a4600f14d5e7fb81d1291).
+If you don't have access to the ACM Digital Library, you can download the preprint versions of my papers on [Google Drive](https://drive.google.com/folderview?id=0B3ZUNRRaVZ8nfkVHdzdOM3ZKQmZHMGl1SWowQU9GQnVWakM5YTQ2UGZJcnQ3d3ZQcjFOZ1U&usp=sharing).
 
-## Social Media
-<a class="twitter-timeline" href="https://twitter.com/taodong" data-widget-id="635598555265269760">Tweets by @taodong</a>
+<a class="twitter-timeline"  href="https://twitter.com/taodong" data-widget-id="635598555265269760">Tweets by @taodong</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
